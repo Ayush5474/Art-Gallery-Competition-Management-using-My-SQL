@@ -1,0 +1,1 @@
+# Art-Gallery-Competition-Management-using-My-SQL
